@@ -1,0 +1,3 @@
+SELECT *
+From SKU_DATA
+WHERE 
